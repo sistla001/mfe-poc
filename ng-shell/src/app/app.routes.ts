@@ -15,7 +15,7 @@ export const routes: Routes = [
       config: {
         remoteName: 'react_mfe2',
         exposedModule: './app',
-        elementName: 'react_mfe2',
+        elementName: 'app',
       } as WrapperConfig,
     },
   }
